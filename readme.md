@@ -1,5 +1,8 @@
 # MAGI: A fun mixture of agents project
 A min project that recreates the MAGI from the anime!
+## Images
+![Example #1](https://github.com/SammmyJr/Magi/img/MaccasExample.jpg)
+![Example #2](https://github.com/SammmyJr/Magi/img/MathsExample.jpg)
 
 ## Usage
 The GUI can be run by running the `gui.py` file after installing dependencies via `req.txt`.
