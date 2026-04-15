@@ -1,0 +1,5 @@
+.venv
+build
+models/balthasar/mistral*
+*.DS_store
+__pycache__
